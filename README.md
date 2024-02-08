@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=777BB4&lines=I+really+love+PHP)](https://git.io/typing-svg)
 
 
-<img align="center" src="https://github.com/LinkZzZzZZz/LinkZzZzZZz/assets/113850575/3ca69612-c0d6-464b-8822-8f14bf6f4a23" width="150px" />
+<img align="left" src="https://github.com/LinkZzZzZZz/LinkZzZzZZz/assets/113850575/3ca69612-c0d6-464b-8822-8f14bf6f4a23" width="150px" />
 
 <hr>
 <div align="center">
