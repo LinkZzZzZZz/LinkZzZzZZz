@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LinkZzZzZZz&theme=default&show_icons=true&count_private=true" />
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=777BB4&lines=I+really+love+PHP)](https://git.io/typing-svg)
 
